@@ -1,0 +1,9 @@
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\bin\Debug\Reza.CSVImporter.Sample.exe
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\bin\Debug\Reza.CSVImporter.Sample.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\bin\Debug\Reza.CSVImporter.dll
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\bin\Debug\Reza.CSVImporter.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\obj\x86\Debug\Reza.CSVImporter.Sample.exe
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter.Sample\obj\x86\Debug\Reza.CSVImporter.Sample.pdb
+C:\Users\reza\Downloads\Reza.CSVImporter\Reza.CSVImporter.Sample\obj\x86\Debug\Reza.CSVImporter.Sample.exe
+C:\Users\reza\Downloads\Reza.CSVImporter\Reza.CSVImporter.Sample\obj\x86\Debug\Reza.CSVImporter.Sample.pdb

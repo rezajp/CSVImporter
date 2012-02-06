@@ -1,0 +1,101 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:EnumerableExtensions.cs" caret="121" fromTop="6" />
+      <File id="4804E768-3E4C-4947-A67E-E1E85340F497/f:Customer.cs" caret="147" fromTop="7" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="7230" fromTop="31" />
+      <File id="4804E768-3E4C-4947-A67E-E1E85340F497/f:Program.cs" caret="362" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="7512" fromTop="36" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="13" fromTop="0" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="125" fromTop="4" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="0" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="23" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="24" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:EnumerableExtensions.cs" caret="653" fromTop="23" />
+      <File id="4804E768-3E4C-4947-A67E-E1E85340F497/f:Customer.cs" caret="272" fromTop="11" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="25" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="14" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="27" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="21" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6635" fromTop="27" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="13" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="16" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="6527" fromTop="15" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="1187" fromTop="15" />
+      <File id="B68A6DA6-AFE5-4E51-A447-C953937FA99F/f:CSVImporter.cs" caret="2436" fromTop="8" />
+      <File id="4804E768-3E4C-4947-A67E-E1E85340F497/f:Program.cs" caret="362" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="class" priority="31" />
+      <Item value="String`0" priority="31" />
+      <Item value="property" priority="31" />
+      <Item value="new" priority="159" />
+      <Item value="object" priority="28" />
+      <Item value="prop" priority="95" />
+      <Item value="int" priority="30" />
+      <Item value="string" priority="61" />
+      <Item value="var" priority="95" />
+      <Item value="CSVImporter" priority="28" />
+      <Item value="Customer`0" priority="31" />
+      <Item value="csvImporter" priority="31" />
+      <Item value="columnMappers" priority="192" />
+      <Item value="null" priority="159" />
+      <Item value="else" priority="63" />
+      <Item value="csvColumns" priority="63" />
+      <Item value="index" priority="63" />
+      <Item value="if" priority="31" />
+      <Item value="item" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="Console`0" priority="31" />
+      <Item value="c" priority="95" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Skip`1" priority="26" />
+      <Item value="IndexOf`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="SetValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Reza.CSVImporter.CSVImporter`1">
+      <Item value="Extract`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Reza.CSVImporter.Sample.Customer">
+      <Item value="Id" priority="26" />
+      <Item value="Name" priority="26" />
+      <Item value="Address" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

@@ -1,0 +1,5 @@
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter\bin\Debug\Reza.CSVImporter.dll
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter\bin\Debug\Reza.CSVImporter.pdb
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter\obj\Debug\Reza.CSVImporter.dll
+c:\users\panahr\documents\visual studio 2010\Projects\Reza.CSVImporter\Reza.CSVImporter\obj\Debug\Reza.CSVImporter.pdb

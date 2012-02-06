@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="B68A6DA6-AFE5-4E51-A447-C953937FA99F" ModuleId="Reza.CSVImporter" />
+  <Module PersistentId="69F64342-B059-4A69-BC9F-ADB04D0DC1D1" ModuleId="Reza.CSVImporter.Sample" />
+  <Module PersistentId="4804E768-3E4C-4947-A67E-E1E85340F497" ModuleId="Reza.CSVImporter.Sample_1" />
+</Modules>
